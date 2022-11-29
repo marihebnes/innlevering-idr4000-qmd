@@ -1,3 +1,53 @@
+---
+bibliography: references.bib
+---
+
 # Deloppgave 2: Laborasjonsrapport
 
-<!-- Part 1: Laboratory report -->
+## Ekstraksjon og analyse av DNA
+
+## Introduksjon
+
+Hvilke egenskaper kroppen har tilegnet seg eller har påvirker prestasjon i både idrett og dagligdagse gjøremål. Med styrke- og kondisjonstrening vil organene og skjelettmuskulaturen få adaptasjoner, som vil gjøre kroppen bedre egnet til å gjennomføre arbeidet den er blitt utsatt for [@hughes2018]. Genetikk er også en faktor som vil gi oss forskjellig utgangspunkt for trening og ulik adaptasjon til treningsstimuli [@bouchard2011]. Hvert enkelt individ har egne genotyper, dette vil si forskjellige varianter av samme gen. Genet ACTN3 er et gen for aktin-bindende proteiner i type 2-muskelfibre. Genet har genotypene X/X, R/R og R/X. Tidligere forskning har vist at personer som har genotypen X/X er mer disponert for prestasjon i utholdenhetsidretter. Derimot er de med R/R-genotypen mer disponert for kraft- og styrkerelaterte idretter, mens noen har en kombinasjon med genotype X/R, med lik disponering for utholdenhetsidretter og kraft- og styrkerelaterte idretter [@schadock2015]. Ved å undersøke hvilken genotype et enkelt individ har, skal det kunne være enklere å tilrettelegge trening med mer optimal effekt. Dette kan være relevant i eksempel toppidrett for å optimalisere trening for best mulig prestasjon. I tillegg kan det være med å forklare hvorfor responsen på trening varierer blant befolkningen. Dermed kan en optimalisere treningen med best mulig effekt på individnivå på tvers av grupper i samfunnet. I denne rapporten vil vi bruke metoden til @schadock2015 for å analysere ACTN3-genet og kartlegge hvilken av de ulike genotypene som finnes hos enkeltpersoner. 
+
+## Metode
+
+**DNA-ekstraksjon**
+
+For å kunne analysere ACTN3-genet fra DNA ble det foretatt en blodprøve av hvert enkelt gruppemedlem. For lagring av blodprøver kan det brukes både heparin- og EDTA- vakutainrør. Våres blodprøver ble tatt med EDTA-vakutainrør, dette fordi prøvene ble fryst ned for behandling på et senere tidspunkt. 
+
+Selve DNA-ekstraksjonen startet med overføring av 3ml blod (fra blodprøven) til et 15ml rør, hvor det ble tilført 12 ml av Reagens A. Innholdet i røret ble blandet sakte ved rotasjon i 4 minutter i romtemperatur (ca. 23 grader celsius). Deretter ble det sentrifugert med innstilling 3000g i 5 minutter ved romtemperatur. Etter endt sentrifugering ble den supernatante væsken separert fra pelletet, deretter forsøkte vi å få minimert væskeinnholdet ved å pipettere uten å komme i kontakt med pelletet. 1 ml av Reagens B ble tilført for å hindre at pelletet skulle brytes ned eller reagere på noen måte. Deretter ble 250μl av M sodium perchlorate tilført og blandet ved at vi vendte på røret flere ganger. Rørene ble plassert i et vannbad (65 grader) i 15-20 min. Etter vannbadet ble rørene avkjølt til romtemperatur, og tilført 2 ml av iskald chloroform. Deretter ble rørene plassert i en roterende mikser mellom 30 og 60 min. Jo nærmere 60 min desto bedre blir DNA-pellet. Deretter ble de sentrifugert på innstillingen 2400g i 2 min. Etter sentrifugeringen hadde blodet skilt seg, og det var viktig å være forsiktig ved transport av rørene for å ikke blande blodet igjen. Neste steg besto av å flytte den øverste blanke væsken ved pipettering til ett falcon rør. Ved å tilsette 2-3 ml av 100% kald etanol til den blanke væsken, for deretter å vende på røret, skulle DNA vises i løsningen. Videre overførte vi DNAet fra væsken til et 1.5 ml rør for at det skulle lufttørke. Deretter tilsatte vi 200 μl av TE buffer til falcon røret. I siste steg av DNA-ekstraksjonen skulle DNA konsentrasjonen kvantifiseres ved spektrofotometeret ved 200-500 ng/μl. 
+
+**Genotyping**
+
+Første steg i genotypingen var å forberede geléen. Dette ble gjort ved å fortynne 10X TBE buffer for å lage en 1X løsning, altså 100 ml i 900 ml H2O. Deretter ble det tilført 100 ml av 1X TBE buffer til et konisk beger. I tillegg ble det tilført agarose for å lage en gelé med passende prosentandel hvor 2g ga 2% gelé. Dersom Sybr Safe blir brukt, tilføres 1:10000 til miksturen. Deretter ble geléen varmet opp til den ble klar (f.eks. 1 min i en mikroovn eller en varmeplate). Etter oppvarming måtte miksturen kjøles ned til omtrent 60 grader. Videre ble miksturen helt i et gelé støpebrett og kammen ble plassert på riktig plass. Etter en time var geléen polymerisert og kammen ble fjernet. 
+
+Neste steg var å bruke DNA-ekstraksjonen og tilsette 2X Master mix og primer mix som ble blandet i et PVR reaksjonsrør. Resultatene ble kontrollert ved å bruke DNA ladder og H2O  sammen som en negativ kontroll. For å kjøre PCR ble 2-5 μl av reaksjonsmiksen brukt på en 2% agarose gelé.
+
+Den første syklusen i PCR kalles \"oppvarming\" og kjøres i 2 min på 95 grader. De tre midterste syklusene er hoveddelen og kjøres 35 ganger. Den siste syklusen kalles \"nedkjøling\" og kjøres i 2 min på 72 grader. 
+
+**Elektroforese**
+
+Siste fase var å plassere geléen i en elektroforese, hvor vi tilsatte 1X TBE for å dekke til brønnene i geléen. For å kunne visualisere prøvene og DNA ladder mikset vi inn \"loading dye\", som besto av 1 μl av 6X \"dye\" per 5 μl med prøve. Deretter ble elektroforesen satt på 150V i omtrent 1 time. 
+
+## Resultater
+
+Av 7 PCR-produkter var det 5 prøver som ga lesbare resultater etter elektroforesen. Bilde 1 tyder på at prøve 1, 6 og 7 er genotype R/R, og prøve 3 og 4 er R/X. Det var ikke mulig å tolke resultat fra prøve 2 og 5. 
+
+## Diskusjon
+
+Basert på det @schadock2015 skriver i sin artikkel er det ikke tilstrekkelig med forskning gjort på større kohorter. Dette bidrar til det er vanskelig å si med sikkerhet at funnene gjort i forbindelse med denne testen er til å stole på. Det som man ser i studien til både @schadock2015 og @yang2003 er at det i flere tilfeller har blitt oppdaget høyere forekomst av R/R genotype blant personer som bedriver en eksplosiv idrett. Derimot er det oppdaget en høyere forekomst av X/X genotype blant personer som bedriver og er gode i utholdenhetsidretter. Det at man har gjort funn av X/X genotype trenger likevel ikke være ensbetydende med at en utholdenhetsidrett vil være det som passer personen/utøveren best. Likevel har @schadock2015 gjort det mer tilgjengelig for testing på større folkemengder, siden den nye testmetoden er mer prisvennlig, og tar mindre tid enn tidligere testing. 
+
+I dette forsøket ble to av prøvene mislykket. Det er usikkert hvor i protokollet feilen oppsto, men det ble målt både lav konsentrasjon av DNA i prøvene og de ga svakt utslag på elektroforesen. I dette forsøket kan feilen mulig ha oppstått som følge av søl under pipettering. Bedre opplæring kan bidra til å unngå slike feilkilder. I tillegg burde det blitt gjort grundig rapportering av arbeidet i laboratoriet for å kunne undersøke hvor det har oppstått eventuelle feiltrinn i ettertid.
+
+### Konklusjon
+
+I dette forsøket ble det funnet tre prøver med uttrykk av genotype R/R og to prøver med genotype R/X. Trolig kan man annta at personer er bedre egnet for kraft- eller utholdenhetsidretter ut fra resultatet, men det mangler fortsatt forskning som kan konkludere med dette.
+
+\
+
+
+\
+
+
+
