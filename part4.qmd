@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Deloppgave 4: Studiedesign
 
 ## Spørsmål/hypotese
@@ -6,7 +10,7 @@ Denne oppgaven sammenligner fem artikler som undersøker hvordan styrketrening o
 
 ## Logikk
 
-Bakgrunnen for alle studiene er at styrketrening oppregulerer fosforylering av proteiner og enzymer i muskelcellen, som eksempel kinasene p70s6 og Akt, som tilhører en signalvei tilhørende et kompleks kalt mTOR. mTOR-komplekset er delaktige i regulering av translasjon av mRNA til muskelproteiner og er derfor med å regulerer proteinsyntesen. Tidligere forskning har også vist at inntak av essensielle aminosyrer kan øke aktiveringen av mTOR, uavhengig av styrketrening. Det gav grunnlag for forsøkene til @moore2011 og @farnfield2012. Større doser proteiner har vist å gi større respons i mTOR-signalveien i hvile, noe som @moore2009 vil undersøke om var samme tilfelle i etter å ha gjennomført styrketrening. For @farnfield2012var det interressant å sammenligne effekten av proteininntak hos unge og gamle, da forskning har vist at muskulaturen hos eldre har en lavere respons på styrketrening enn hos unge.
+Bakgrunnen for alle studiene er at styrketrening oppregulerer fosforylering av proteiner og enzymer i muskelcellen, som eksempel kinasene p70s6 og Akt, som tilhører en signalvei tilhørende et kompleks kalt mTOR. mTOR-komplekset er delaktige i regulering av translasjon av mRNA til muskelproteiner og er derfor med å regulerer proteinsyntesen. Tidligere forskning har også vist at inntak av essensielle aminosyrer kan øke aktiveringen av mTOR, uavhengig av styrketrening. Det gav grunnlag for forsøkene til @moore2011 og @farnfield2012. Større doser proteiner har vist å gi større respons i mTOR-signalveien i hvile, noe som @moore2009 vil undersøke om var samme tilfelle i etter å ha gjennomført styrketrening. For @farnfield2012 var det interressant å sammenligne effekten av proteininntak hos unge og gamle, da forskning har vist at muskulaturen hos eldre har en lavere respons på styrketrening enn hos unge.
 
 Insulin skal også være en stimulator for aktivering av mTOR-komplekset og var grunnlag for hypotesene til @figueiredo2019 og @dreyer2008 om kombinasjon av karbohydrater og styrketrening vil gi større aktivering av mTOR. @figueiredo2019 undersøkte da effekten av kun karbohydrater, imens @dreyer2008 så på kombinasjonen av karbohydrater og proteiner.
 

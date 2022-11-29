@@ -32,7 +32,7 @@ Siste fase var å plassere geléen i en elektroforese, hvor vi tilsatte 1X TBE f
 
 ## Resultater
 
-Av 7 PCR-produkter var det 5 prøver som ga lesbare resultater etter elektroforesen. Bilde 1 tyder på at prøve 1, 6 og 7 er genotype R/R, og prøve 3 og 4 er R/X. Det var ikke mulig å tolke resultat fra prøve 2 og 5. 
+Av 7 PCR-produkter var det 5 prøver som ga lesbare resultater etter elektroforesen. Bildet tyder på at prøve 1, 6 og 7 er genotype R/R, og prøve 3 og 4 er R/X. Det var ikke mulig å tolke resultat fra prøve 2 og 5. 
 
 ## Diskusjon
 

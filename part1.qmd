@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Deloppgave 1: Beskrivende statistikk, reliabilitet og validitet, verktøy for reproduserbar dataanalyse
 
 ## Testprotokoll
@@ -210,4 +214,4 @@ sum_stat <- data %>%
                   L = qt(0.975, 4) * s) 
 ```
 
-@fig-var viser en Bland-Altman graf for maksimalt dreiemoment ved en hastighet på 60 grader per sekund med tilsvarende t-distribusjon for "error".
+Figuren viser en Bland-Altman graf for maksimalt dreiemoment ved en hastighet på 60 grader per sekund med tilsvarende t-distribusjon for "error".
