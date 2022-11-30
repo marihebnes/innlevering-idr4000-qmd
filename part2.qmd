@@ -24,11 +24,11 @@ Første steg i genotypingen var å forberede geléen. Dette ble gjort ved å for
 
 Neste steg var å bruke DNA-ekstraksjonen og tilsette 2X Master mix og primer mix som ble blandet i et PVR reaksjonsrør. Resultatene ble kontrollert ved å bruke DNA ladder og H2O  sammen som en negativ kontroll. For å kjøre PCR ble 2-5 μl av reaksjonsmiksen brukt på en 2% agarose gelé.
 
-Den første syklusen i PCR kalles \"oppvarming\" og kjøres i 2 min på 95 grader. De tre midterste syklusene er hoveddelen og kjøres 35 ganger. Den siste syklusen kalles \"nedkjøling\" og kjøres i 2 min på 72 grader. 
+Den første syklusen i PCR kalles "oppvarming" og kjøres i 2 min på 95 grader. De tre midterste syklusene er hoveddelen og kjøres 35 ganger. Den siste syklusen kalles "nedkjøling" og kjøres i 2 min på 72 grader. 
 
 **Elektroforese**
 
-Siste fase var å plassere geléen i en elektroforese, hvor vi tilsatte 1X TBE for å dekke til brønnene i geléen. For å kunne visualisere prøvene og DNA ladder mikset vi inn \"loading dye\", som besto av 1 μl av 6X \"dye\" per 5 μl med prøve. Deretter ble elektroforesen satt på 150V i omtrent 1 time. 
+Siste fase var å plassere geléen i en elektroforese, hvor vi tilsatte 1X TBE for å dekke til brønnene i geléen. For å kunne visualisere prøvene og DNA ladder mikset vi inn "loading dye", som besto av 1 μl av 6X "dye" per 5 μl med prøve. Deretter ble elektroforesen satt på 150V i omtrent 1 time. 
 
 ## Resultater
 
@@ -46,8 +46,4 @@ I dette forsøket ble det funnet tre prøver med uttrykk av genotype R/R og to p
 
 \
 
-
 \
-
-
-
